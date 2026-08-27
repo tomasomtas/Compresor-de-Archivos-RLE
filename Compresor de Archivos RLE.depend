@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1787710811 source:c:\users\usuario\desktop\area académica\proyectos programación\proyectos en c\compresor de archivos rle (run-length encoding)\compresor de archivos rle\main.c
+	<stdio.h>
+	<string.h>
+	"rle.h"
+
+1787710572 c:\users\usuario\desktop\area académica\proyectos programación\proyectos en c\compresor de archivos rle (run-length encoding)\compresor de archivos rle\rle.h
+	<stdio.h>
+	<stdint.h>
+
+1787710723 source:c:\users\usuario\desktop\area académica\proyectos programación\proyectos en c\compresor de archivos rle (run-length encoding)\compresor de archivos rle\rle.c
+	"rle.h"
+
